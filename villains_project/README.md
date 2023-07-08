@@ -1,4 +1,4 @@
-# Lab - Class 32
+# Lab - Class 31
 
 ## Project: Villains API
 
