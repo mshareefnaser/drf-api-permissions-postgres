@@ -10,7 +10,9 @@
 
 ### Links and Resources
 
-- [Pull Request](https://github.com/mshnas9/drf-api-permissions-postgres/pull/1)
+- [Lab33 PR](https://github.com/mshnas9/drf-api-permissions-postgres/pull/2)
+- [Lab32 PR](https://github.com/mshnas9/drf-api-permissions-postgres/pull/1)
+
 
 ### Setup
 
